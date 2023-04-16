@@ -35,5 +35,5 @@ export default async function UsersPage() {
     </section>
   );
 
-  return <div>page</div>;
+  return content;
 }
