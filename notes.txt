@@ -21,3 +21,4 @@ Quick overview of the recommendations on this page:
 
 //Review & Running the App
 1. No errors with each user data
+2. Open one of the users
