@@ -18,3 +18,6 @@ Quick overview of the recommendations on this page:
 3. getUserPosts.tsx
 4. post type
 5. request data in parallel ([userId]/page.tsx)
+
+//Review & Running the App
+1. No errors with each user data
