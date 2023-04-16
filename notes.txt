@@ -7,3 +7,14 @@ Quick overview of the recommendations on this page:
 
 
 //Running the Next.js app
+1. npm run dev
+2. localhost:3000
+3. show dev mode
+4. click users
+
+//Fetching data in parallel
+1. [userId]
+2. getUser.tsx
+3. getUserPosts.tsx
+4. post type
+5. request data in parallel ([userId]/page.tsx)
